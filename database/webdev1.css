@@ -1,0 +1,24 @@
+body{
+
+	color: black;
+	background: linear-gradient(darkolivegreen,cornsilk,white,pink)
+}
+h1{
+	color: cornsilk;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	font-family: arial rounded MT bold;
+}
+h4{
+	font-family: lucida calligraphy;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+	font-family: corsiva;
+}
